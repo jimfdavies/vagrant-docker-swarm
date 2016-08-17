@@ -7,6 +7,9 @@ the [Docker Engine Swarm tutorial](https://docs.docker.com/engine/swarm/swarm-tu
 Three virtual machines will be created and configured
 as [described here](https://docs.docker.com/engine/swarm/swarm-tutorial/#/set-up).
 
+Note that Docker is installed using Centos 7 as the base VM image and Docker's own
+install script is used.
+
 Pre-requisites
 --------------
 * [Vagrant](https://www.vagrantup.com/docs/installation/) (and allow Vagrant to install VirtualBox for you)
