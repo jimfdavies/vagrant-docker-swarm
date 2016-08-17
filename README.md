@@ -15,8 +15,8 @@ Setup
 -----
 
     cd <your local code directory>
-    git clone ...
-    cd ...
+    git clone https://github.com/jimfdavies/vagrant-docker-swarm.git
+    cd vagrant-docker-swarm
     vagrant up
 
 Usage
