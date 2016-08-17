@@ -27,6 +27,10 @@ SSH into ```manager1```:
 
     vagrant ssh manager1
 
+Obtain the IP from the Private Network (should be on ```eth1``` and 172.28.128.X/24)
+
+    ip addr show eth1
+
 You can now follow the Docker Swarm tutorial [from here](https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/).
 
 To SSH into the workers:
