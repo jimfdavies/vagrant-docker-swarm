@@ -3,7 +3,7 @@ Introduction
 
 The Vagrantfile and boot script init.sh in this repo are to help you to set up
 the [Docker Engine Swarm tutorial](https://docs.docker.com/engine/swarm/swarm-tutorial/).
-
+   
 Three virtual machines will be created and configured
 as [described here](https://docs.docker.com/engine/swarm/swarm-tutorial/#/set-up).
 
